@@ -59,7 +59,7 @@
     "lit-js-sdk": "^1.1.202",
     "query-string": "^7.1.1",
     "siwe": "^1.1.6",
-    "web3": "^1.8.0"
+    "web3": "^4.0.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
